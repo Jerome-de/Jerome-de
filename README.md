@@ -13,7 +13,7 @@
 <a href="https://twitter.com/jeromeanake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeromeanake" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jeromeanake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeromeanake" height="30" width="40" /></a>
 <a href="https://kaggle.com/jeromeanake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jeromeanake" height="30" width="40" /></a>
-<a href="https://fb.com/jeromeanake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jerome.anake.2025" height="30" width="40" /></a>
+<a href="https://fb.com/jeromeanake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="JEROME ANAKE" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
